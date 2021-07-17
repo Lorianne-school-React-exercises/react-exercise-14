@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(196, 253, 250);
+  font-family: sans-serif;
+  text-align: center;
+}
+button,
+input {
+  margin: 10px;
+  background-color: pink;
+  border-radius: 5px;
+  padding: 7px;
+  border-width: 3px;
+  border-style: double;
+  border-color: rgb(182, 112, 123);
+}
+button:hover,
+button:active,
+input:active {
+  background-color: rgb(255, 131, 152);
+}
+h1 {
+  font-style: italic;
+  font-family: garamond;
+}
